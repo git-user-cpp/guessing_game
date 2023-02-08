@@ -28,7 +28,7 @@ use std::cmp::Ordering;
 
 fn main() {
     
-    println!("Guess the number");
+    println!("*Guess the number game*");
 
     let secret_number = rand::thread_rng().gen_range(1..=100);
     
@@ -36,7 +36,7 @@ fn main() {
 
     loop {
 
-        println!("Please input your guess:");
+        println!("Please input your answer:");
 
         let mut guess = String::new(); //creating a new value
 
