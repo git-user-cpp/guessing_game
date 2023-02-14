@@ -1,4 +1,4 @@
-# Guessing game v0.1.0
+# Guessing game v0.2.0
 😃 Just a game made for fun 😃
 
 ## ⚠️ LICENSE ⚠️
